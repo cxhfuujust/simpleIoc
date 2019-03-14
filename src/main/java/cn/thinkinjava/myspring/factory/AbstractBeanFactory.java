@@ -11,7 +11,7 @@ import java.util.HashMap;
 public abstract class AbstractBeanFactory implements BeanFactory {
 
   /**
-   * 容器
+   * 容器xxx
    */
   private HashMap<String, BeanDefinition> map = new HashMap<>();
 
